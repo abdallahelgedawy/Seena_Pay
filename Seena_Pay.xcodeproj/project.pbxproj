@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B8DA84992DAD91DB00D5170D /* Seena_PayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8DA84982DAD91DB00D5170D /* Seena_PayApp.swift */; };
-		B8DA849B2DAD91DB00D5170D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8DA849A2DAD91DB00D5170D /* ContentView.swift */; };
+		B8DA849B2DAD91DB00D5170D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8DA849A2DAD91DB00D5170D /* HomeView.swift */; };
 		B8DA849D2DAD91DC00D5170D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8DA849C2DAD91DC00D5170D /* Assets.xcassets */; };
 		B8DA84A02DAD91DC00D5170D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8DA849F2DAD91DC00D5170D /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		B8DA84952DAD91DB00D5170D /* Seena_Pay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Seena_Pay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8DA84982DAD91DB00D5170D /* Seena_PayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Seena_PayApp.swift; sourceTree = "<group>"; };
-		B8DA849A2DAD91DB00D5170D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B8DA849A2DAD91DB00D5170D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		B8DA849C2DAD91DC00D5170D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8DA849F2DAD91DC00D5170D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				B8DA84982DAD91DB00D5170D /* Seena_PayApp.swift */,
-				B8DA849A2DAD91DB00D5170D /* ContentView.swift */,
+				B8DA849A2DAD91DB00D5170D /* HomeView.swift */,
 				B8DA849C2DAD91DC00D5170D /* Assets.xcassets */,
 				B8DA849E2DAD91DC00D5170D /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B8DA849B2DAD91DB00D5170D /* ContentView.swift in Sources */,
+				B8DA849B2DAD91DB00D5170D /* HomeView.swift in Sources */,
 				B8DA84992DAD91DB00D5170D /* Seena_PayApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
