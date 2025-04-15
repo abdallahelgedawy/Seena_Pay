@@ -313,7 +313,7 @@ struct SectionHeader: View {
             Text(title)
                 .font(.title3)
                 .fontWeight(.bold)
-                .foregroundColor(Color(hex: "002366")) // Navy blue color from the image
+                .foregroundColor(Color.black) // Navy blue color from the image
             
             Spacer()
             
